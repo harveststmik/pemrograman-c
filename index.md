@@ -1,3 +1,7 @@
+---
+title: Pemgrograman C
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/harveststmik/pemrograman-c/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
