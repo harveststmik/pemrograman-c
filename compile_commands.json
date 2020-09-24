@@ -1,0 +1,97 @@
+[{
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Array1/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Array1",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Array1/main.c -o /media/windows/Users/jasiph.000/Documents/C/Array1/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/latihan1/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/latihan1",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/latihan1/main.c -o /media/windows/Users/jasiph.000/Documents/C/latihan1/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/stuktur_data_stack/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/stuktur_data_stack",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/stuktur_data_stack/main.c -o /media/windows/Users/jasiph.000/Documents/C/stuktur_data_stack/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Tipe-Data/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Tipe-Data",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Tipe-Data/main.c -o /media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Tipe-Data/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Halo-C/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Halo-C",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Halo-C/main.c -o /media/windows/Users/jasiph.000/Documents/C/pemrograman-c/Halo-C/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Pointer2/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Pointer2",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Pointer2/main.c -o /media/windows/Users/jasiph.000/Documents/C/Pointer2/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/pemrograman-c/tebak-angka/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/pemrograman-c/tebak-angka",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/pemrograman-c/tebak-angka/main.c -o /media/windows/Users/jasiph.000/Documents/C/pemrograman-c/tebak-angka/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Pointer1/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Pointer1",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Pointer1/main.c -o /media/windows/Users/jasiph.000/Documents/C/Pointer1/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Pointer/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Pointer",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Pointer/main.c -o /media/windows/Users/jasiph.000/Documents/C/Pointer/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/HalloJoko/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/HalloJoko",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/HalloJoko/main.c -o /media/windows/Users/jasiph.000/Documents/C/HalloJoko/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Little_game_v2/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Little_game_v2",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Little_game_v2/main.c -o /media/windows/Users/jasiph.000/Documents/C/Little_game_v2/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Hallo/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Hallo",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Hallo/main.c -o /media/windows/Users/jasiph.000/Documents/C/Hallo/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/pointer5/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/pointer5",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/pointer5/main.c -o /media/windows/Users/jasiph.000/Documents/C/pointer5/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/struktur2/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/struktur2",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/struktur2/main.c -o /media/windows/Users/jasiph.000/Documents/C/struktur2/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Little_game/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Little_game",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Little_game/main.c -o /media/windows/Users/jasiph.000/Documents/C/Little_game/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/fileIO/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/fileIO",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/fileIO/main.c -o /media/windows/Users/jasiph.000/Documents/C/fileIO/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Pointer_Array/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Pointer_Array",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Pointer_Array/main.c -o /media/windows/Users/jasiph.000/Documents/C/Pointer_Array/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/pointer4/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/pointer4",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/pointer4/main.c -o /media/windows/Users/jasiph.000/Documents/C/pointer4/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/uts/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/uts",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/uts/main.c -o /media/windows/Users/jasiph.000/Documents/C/uts/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Struktur/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Struktur",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Struktur/main.c -o /media/windows/Users/jasiph.000/Documents/C/Struktur/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/strturktur_data_bubble_sort/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/strturktur_data_bubble_sort",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/strturktur_data_bubble_sort/main.c -o /media/windows/Users/jasiph.000/Documents/C/strturktur_data_bubble_sort/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/Struktur1/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/Struktur1",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/Struktur1/main.c -o /media/windows/Users/jasiph.000/Documents/C/Struktur1/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/pointer3/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/pointer3",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/pointer3/main.c -o /media/windows/Users/jasiph.000/Documents/C/pointer3/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }, {
+  "file": "/media/windows/Users/jasiph.000/Documents/C/structur3/main.c",
+  "directory": "/media/windows/Users/jasiph.000/Documents/C/structur3",
+  "command": "clang  -c /media/windows/Users/jasiph.000/Documents/C/structur3/main.c -o /media/windows/Users/jasiph.000/Documents/C/structur3/main.c.o  -I/usr/include/c++/7 -I/usr/include/x86_64-linux-gnu/c++/7 -I/usr/include/c++/7/backward -I/usr/lib/gcc/x86_64-linux-gnu/7/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I.  -g  -O0  -Wall"
+ }]

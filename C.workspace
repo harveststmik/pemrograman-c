@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="C" Database="" Version="10.0.0">
+  <Project Name="Hallo" Path="Hallo/Hallo.project" Active="No"/>
+  <Project Name="Little_game" Path="Little_game/Little_game.project" Active="No"/>
+  <Project Name="Little_game_v2" Path="Little_game_v2/Little_game_v2.project" Active="No"/>
+  <Project Name="Pointer" Path="Pointer/Pointer.project" Active="No"/>
+  <Project Name="Pointer1" Path="Pointer1/Pointer1.project" Active="No"/>
+  <Project Name="Pointer2" Path="Pointer2/Pointer2.project" Active="No"/>
+  <Project Name="pointer3" Path="pointer3/pointer3.project" Active="No"/>
+  <Project Name="pointer4" Path="pointer4/pointer4.project" Active="No"/>
+  <Project Name="pointer5" Path="pointer5/pointer5.project" Active="No"/>
+  <Project Name="uts" Path="uts/uts.project" Active="No"/>
+  <Project Name="Struktur" Path="Struktur/Struktur.project" Active="No"/>
+  <Project Name="Struktur1" Path="Struktur1/Struktur1.project" Active="No"/>
+  <Project Name="struktur2" Path="struktur2/struktur2.project" Active="No"/>
+  <Project Name="fileIO" Path="fileIO/fileIO.project" Active="No"/>
+  <Project Name="structur3" Path="structur3/structur3.project" Active="No"/>
+  <Project Name="HalloJoko" Path="HalloJoko/HalloJoko.project" Active="No"/>
+  <Project Name="Halo-C" Path="pemrograman-c/Halo-C/Halo-C.project" Active="No"/>
+  <Project Name="Tipe-Data" Path="pemrograman-c/Tipe-Data/Tipe-Data.project" Active="Yes"/>
+  <Project Name="latihan1" Path="latihan1/latihan1.project" Active="No"/>
+  <Project Name="tebak-angka" Path="pemrograman-c/tebak-angka/tebak-angka.project" Active="No"/>
+  <Project Name="Array1" Path="Array1/Array1.project" Active="No"/>
+  <Project Name="Pointer_Array" Path="Pointer_Array/Pointer_Array.project" Active="No"/>
+  <Project Name="strturktur_data_bubble_sort" Path="strturktur_data_bubble_sort/strturktur_data_bubble_sort.project" Active="No"/>
+  <Project Name="stuktur_data_stack" Path="stuktur_data_stack/stuktur_data_stack.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Hallo" ConfigName="Debug"/>
+      <Project Name="Little_game" ConfigName="Debug"/>
+      <Project Name="Little_game_v2" ConfigName="Debug"/>
+      <Project Name="Pointer" ConfigName="Debug"/>
+      <Project Name="Pointer1" ConfigName="Debug"/>
+      <Project Name="Pointer2" ConfigName="Debug"/>
+      <Project Name="pointer3" ConfigName="Debug"/>
+      <Project Name="pointer4" ConfigName="Debug"/>
+      <Project Name="pointer5" ConfigName="Debug"/>
+      <Project Name="uts" ConfigName="Debug"/>
+      <Project Name="Struktur" ConfigName="Debug"/>
+      <Project Name="Struktur1" ConfigName="Debug"/>
+      <Project Name="struktur2" ConfigName="Debug"/>
+      <Project Name="fileIO" ConfigName="Debug"/>
+      <Project Name="structur3" ConfigName="Debug"/>
+      <Project Name="HalloJoko" ConfigName="Debug"/>
+      <Project Name="Halo-C" ConfigName="Debug"/>
+      <Project Name="Tipe-Data" ConfigName="Debug"/>
+      <Project Name="latihan1" ConfigName="Debug"/>
+      <Project Name="tebak-angka" ConfigName="Debug"/>
+      <Project Name="Array1" ConfigName="Debug"/>
+      <Project Name="Pointer_Array" ConfigName="Debug"/>
+      <Project Name="strturktur_data_bubble_sort" ConfigName="Debug"/>
+      <Project Name="stuktur_data_stack" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Hallo" ConfigName="Release"/>
+      <Project Name="Little_game" ConfigName="Release"/>
+      <Project Name="Little_game_v2" ConfigName="Release"/>
+      <Project Name="Pointer" ConfigName="Release"/>
+      <Project Name="Pointer1" ConfigName="Release"/>
+      <Project Name="Pointer2" ConfigName="Release"/>
+      <Project Name="pointer3" ConfigName="Release"/>
+      <Project Name="pointer4" ConfigName="Release"/>
+      <Project Name="pointer5" ConfigName="Release"/>
+      <Project Name="uts" ConfigName="Release"/>
+      <Project Name="Struktur" ConfigName="Release"/>
+      <Project Name="Struktur1" ConfigName="Release"/>
+      <Project Name="struktur2" ConfigName="Release"/>
+      <Project Name="fileIO" ConfigName="Release"/>
+      <Project Name="structur3" ConfigName="Release"/>
+      <Project Name="HalloJoko" ConfigName="Release"/>
+      <Project Name="Halo-C" ConfigName="Release"/>
+      <Project Name="Tipe-Data" ConfigName="Release"/>
+      <Project Name="latihan1" ConfigName="Release"/>
+      <Project Name="tebak-angka" ConfigName="Release"/>
+      <Project Name="Array1" ConfigName="Release"/>
+      <Project Name="Pointer_Array" ConfigName="Release"/>
+      <Project Name="strturktur_data_bubble_sort" ConfigName="Release"/>
+      <Project Name="stuktur_data_stack" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
